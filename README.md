@@ -14,7 +14,7 @@ A comprehensive Progressive Web App (PWA) featuring detailed stories of all 25 p
 
 🚀 Live Demo
 
-Visit the live site: https://islamic-guide-psp.netlify.app/
+Visit the live site: 
 
 🛠️ Technology Stack
 
